@@ -1,2 +1,0 @@
-#!/bin/bsah
-cat /etc/passwd /etc/hosts

@@ -1,2 +1,0 @@
-#!/bin/bash
-cat /de/stdin | tr -d 'c' | tr -d 'C'
